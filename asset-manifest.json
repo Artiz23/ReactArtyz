@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactArtyz/static/css/main.4bfb2caf.css",
+    "main.js": "/ReactArtyz/static/js/main.7e1de8b4.js",
+    "static/js/787.c2651d7e.chunk.js": "/ReactArtyz/static/js/787.c2651d7e.chunk.js",
+    "static/media/logo.svg": "/ReactArtyz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactArtyz/index.html",
+    "main.4bfb2caf.css.map": "/ReactArtyz/static/css/main.4bfb2caf.css.map",
+    "main.7e1de8b4.js.map": "/ReactArtyz/static/js/main.7e1de8b4.js.map",
+    "787.c2651d7e.chunk.js.map": "/ReactArtyz/static/js/787.c2651d7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bfb2caf.css",
+    "static/js/main.7e1de8b4.js"
+  ]
+}
